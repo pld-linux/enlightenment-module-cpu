@@ -15,7 +15,6 @@ BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	edje
 BuildRequires:	enlightenmentDR17-devel
-BuildRequires:	ecore-devel
 BuildRequires:	libtool
 BuildRequires:	sed >= 4.0
 Requires:	enlightenmentDR17
